@@ -1,0 +1,11 @@
+<- Vertex ----------------------------------------------------------------------
+This class handles vertexes, constructing an instance from the coordinates
+x, y and z. w is optional, defaulting to 1.0 if not supplied.
+
+There are also setter and getter functions for all of the five parameters:
+setX($value), getX,
+setY($value), getY,
+setZ($value), getZ,
+setW($value), getW,
+setColor($value), getColor
+---------------------------------------------------------------------- Vertex ->
